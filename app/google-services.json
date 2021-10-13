@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770073626009",
+    "project_id": "lab5-f7333",
+    "storage_bucket": "lab5-f7333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770073626009:android:2b8e672980e3b8ccd3bf08",
+        "android_client_info": {
+          "package_name": "mgarzon.createbest.productcatalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770073626009-b1ujpd2jgrb5hm0t5vhn4c0cvcuk80tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxch4c0jGl9J0wQS4dfWwV20idgW__8H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770073626009-b1ujpd2jgrb5hm0t5vhn4c0cvcuk80tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
